@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Byienio
-- 👀 I’m interested in 
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in gaming, coding 
+- 🌱 I’m currently learning JS and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
