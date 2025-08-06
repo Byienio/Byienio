@@ -20,6 +20,5 @@
 - 🎯 Building applications using **Pokemon API**
 
 ## 📫 Get In Touch
-- GitHub: [@Byienio](https://github.com/Byienio)
 - 💡 Open to feedback and new collaboration opportunities!
 
