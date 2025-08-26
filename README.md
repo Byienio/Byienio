@@ -13,12 +13,6 @@
 - **Tools:** Jupyter Notebook, Git, Docker
 - **Focus Areas:** Data Analysis, Web APIs, Machine Learning
 
-## 📈 Current Projects
-- 🔥 Learning advanced **Pandas** techniques
-- 📊 Creating data visualizations with **Plotly** and **Matplotlib**
-- 🤖 Experimenting with **Linear Regression**
-- 🎯 Building applications using **Pokemon API**
-
 ## 📫 Get In Touch
 - 💡 Open to feedback and new collaboration opportunities!
 
