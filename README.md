@@ -1,6 +1,14 @@
-# Hi
-I'm omputer science student with a interest in software development and practical problem solving. Focused on building solid foundations in programming while gradually expanding into data-oriented and backend technologies.
+# Hi there
 
-# About me 
+CS student, mostly doing backend and data stuff in Python. I like building things that actually work and are easy to come back to later.
 
-I am currently studying computer science and actively developing my skills in Python and related technologies. I enjoy working on projects that involve data processing, APIs, and backend logic. I value clean code, clear architecture, and continuous learning through hands-on experience.
+## Stack
+
+**Languages:** Python  
+**Backend:** FastAPI, SQLAlchemy, Alembic   
+**Databases:** PostgreSQL, Redis  
+**Infra:** Docker
+
+---
+
+Open to collaborating on backend or data-oriented projects.
